@@ -1,7 +1,5 @@
 # Contribution Guideline
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Thank the contributor for having chosen the project to help.
 
 Tell them how excited you are to have them as a part of your team.
