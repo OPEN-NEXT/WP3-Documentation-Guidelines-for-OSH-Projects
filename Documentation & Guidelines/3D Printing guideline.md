@@ -22,6 +22,6 @@ Settings considerations
 
 ## Documentation
 
-* Which 3D printer and printer version used?
-* Which material may be used?
-* 
+* Which 3D printer and printer version was used?
+* Which material was used?
+
