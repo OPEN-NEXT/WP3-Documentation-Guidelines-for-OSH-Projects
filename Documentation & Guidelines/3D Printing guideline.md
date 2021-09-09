@@ -1,3 +1,13 @@
+## Documentation
+
+* 3D printer used is..
+* Material used is..
+* The design file used to print is..
+* Machine settings used are..
+* Part cleaning requirements are..
+* Part cleaning procedures are..
+
+
 # 3D Printing Guidelines
 
 Design considerations
@@ -20,8 +30,5 @@ Settings considerations
 * Temperature setting
 * Cooling setting
 
-## Documentation
 
-* Which 3D printer and printer version was used?
-* Which material was used?
 
